@@ -8,4 +8,4 @@ I'd Like to share you some of Python code using RESP API to configure Cisco Inte
 ```shell
 pip install requests
 ```
-- Enable SSH on Router
+- Enable SSH on Router with privilege 15
