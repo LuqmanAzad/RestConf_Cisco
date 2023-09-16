@@ -2,9 +2,9 @@ import requests
 import json
 
 router = {
-    "host": "10.0.2.10",
-    "username": "admin",
-    "password": "123",
+    "host": "Router_IP",
+    "username": "username",
+    "password": "Password",
     "port": "443"
 }
 
