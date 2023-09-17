@@ -8,4 +8,14 @@ I'd Like to share you some of Python code using RESP API to configure Cisco Inte
 ```shell
 pip install requests
 ```
+- Use Cisco SandBox, GNS3 or any VM network Simulation.
+- In Cisco SandBox use CRS1000v router.
 - Enable SSH on Router with privilege 15
+- Use this command to enable restconf and Accept HTTPS request in Global Configuration.
+```shell
+ip server
+ip secure-server
+restconf
+```
+
+Now we can run the Python code to do our Configuration.
