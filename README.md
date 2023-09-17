@@ -10,7 +10,7 @@ pip install requests
 ```
 - Use Cisco SandBox, GNS3 or any VM network Simulation.
 - In Cisco SandBox use CRS1000v router.
-- Enable SSH on Router with privilege 15
+- Enable SSHv2 on Router with privilege 15
 - Use this command to enable restconf and Accept HTTPS request in Global Configuration.
 ```shell
 ip server
